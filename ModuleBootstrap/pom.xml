@@ -19,6 +19,9 @@
     <profiles>
         <profile>
             <id>ServerWeb</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
             <dependencies>
                 <dependency>
                     <groupId>com.example</groupId>
