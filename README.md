@@ -1,0 +1,1 @@
+demo for [Jetbrain community Question](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000127230-The-impact-of-maven-profiles-on-spring-boot-runner-?page=1#community_comment_4420647163538)
